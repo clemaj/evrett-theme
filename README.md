@@ -1,4 +1,6 @@
-# Evrett theme for sublime text 2
+# Evrett theme for Sublime Text 2
+
+Theme inspired from [Brogrammer Theme](https://github.com/kenwheeler/brogrammer-theme) for Sublim Text 2.
 
 ## Install
 
