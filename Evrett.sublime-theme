@@ -819,13 +819,13 @@
         "class": "quick_panel_row",
         "attributes": ["hover"],
         "layer0.texture": "",
-        "layer0.tint": [192, 57, 43]
+        "layer0.tint": [31,127,54]
     },
     {
         "class": "quick_panel_row",
         "attributes": ["selected"],
         "layer0.texture": "",
-        "layer0.tint": [192, 57, 43]
+        "layer0.tint": [31,127,54]
     },
     {
         "class": "quick_panel_label",
@@ -861,7 +861,7 @@
         "class": "mini_quick_panel_row",
         "attributes": ["selected"],
         "layer0.texture": "",
-        "layer0.tint": [192, 57, 43]
+        "layer0.tint": [31,127,54]
     },
 
 //
@@ -889,7 +889,7 @@
     {
         "class": "table_row",
         "layer0.texture": "",
-        "layer0.tint":[145,231,61],
+        "layer0.tint":[31,127,54],
         "layer0.opacity": 0,
         "layer0.inner_margin": [5,5]
     },
