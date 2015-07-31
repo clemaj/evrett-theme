@@ -79,7 +79,7 @@
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["hover"]}],
         "layer0.opacity": 1,
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
 
     },
     {
@@ -123,7 +123,7 @@
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
         "layer0.texture": "Theme - Evrett/Evrett/close.png",
         "layer0.opacity": 1,
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "tab_close_button",
@@ -201,7 +201,7 @@
         "attributes": ["hover"],
         "layer1.texture": "Theme - Evrett/Evrett/tab-scroll-dropdown.png",
         "layer1.inner_margin": [5,10,5,0],
-        "layer1.tint": [231,76,60],
+        "layer1.tint": [145,231,61],
         "layer1.opacity": 1.0
     },
     // Tab scroll left
@@ -221,7 +221,7 @@
         "class": "scroll_tabs_left_button",
         "attributes": ["hover"],
         "layer1.texture": "Theme - Evrett/Evrett/tab-scroll-left.png",
-        "layer1.tint": [231,76,60],
+        "layer1.tint": [145,231,61],
         "layer1.opacity": 1.0
     },
     // Tab scroll right
@@ -241,7 +241,7 @@
         "class": "scroll_tabs_right_button",
         "attributes": ["hover"],
         "layer1.texture": "Theme - Evrett/Evrett/tab-scroll-right.png",
-        "layer1.tint": [231,76,60],
+        "layer1.tint": [145,231,61],
         "layer1.opacity": 1.0
     },
 
@@ -381,7 +381,7 @@
         "settings": ["overlay_scroll_bars"],
         "attributes": ["dark"],
         "layer0.texture": "",
-        "layer0.tint":[231,76,60,50]
+        "layer0.tint":[145,231,61,50]
 
     },
     // Overlay light horizontal puck (for dark content)
@@ -390,7 +390,7 @@
         "settings": ["overlay_scroll_bars"],
         "attributes": ["horizontal","dark"],
         "layer0.texture": "",
-        "layer0.tint":[231,76,60,50]
+        "layer0.tint":[145,231,61,50]
     },
 
 //
@@ -419,7 +419,7 @@
 
     {
         "class": "minimap_control",
-        "viewport_color": [231,76,60,30]
+        "viewport_color": [145,231,61,30]
     },
 
 //
@@ -462,7 +462,7 @@
     // Tooltip content
     {
         "class": "tool_tip_label_control",
-        "color": [231,76,60]
+        "color": [145,231,61]
     },
 
 //
@@ -499,7 +499,7 @@
         "class": "sidebar_container",
         "layer0.texture": "",
         "layer0.opacity": 1,
-        "layer0.tint": [25,25,25],
+        "layer0.tint": [34,34,34],
         "layer0.inner_margin": [1,5,2,1],
         "content_margin": [11,9,0,0]
     },
@@ -574,7 +574,7 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "color": [231,76,60],
+        "color": [145,231,61],
         "shadow_color": [0,0,0],
         "shadow_offset": [0,0]
     },
@@ -589,14 +589,14 @@
         "layer0.texture": "Theme - Evrett/Evrett/circle@2x.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": 0,
-        "layer0.tint": [231,76,60],
+        "layer0.tint": [145,231,61],
         "content_margin": [8,8]
     },
     {
         "class": "close_button",
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
         "layer0.opacity": 1,
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     // Sidebar file dirty
     {
@@ -604,7 +604,7 @@
         "attributes": ["dirty"],
         "layer0.texture": "Theme - Evrett/Evrett/circle@2x.png",
         "layer0.opacity": 1,
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "close_button",
@@ -618,7 +618,7 @@
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
         "layer0.texture": "Theme - Evrett/Evrett/close@2x.png",
         "layer0.opacity": 1,
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     // Sidebar file close hover
     {
@@ -889,7 +889,7 @@
     {
         "class": "table_row",
         "layer0.texture": "",
-        "layer0.tint":[231,76,60],
+        "layer0.tint":[145,231,61],
         "layer0.opacity": 0,
         "layer0.inner_margin": [5,5]
     },
@@ -972,12 +972,12 @@
     {
         "class": "icon_regex",
         "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "icon_regex",
         "parents": [{"class": "icon_button_control","attributes": ["hover"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     // Case sensitive search button
     {
@@ -990,12 +990,12 @@
     {
         "class": "icon_case",
         "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "icon_case",
         "parents": [{"class": "icon_button_control","attributes": ["hover"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     // Match whole word search button
     {
@@ -1008,12 +1008,12 @@
     {
         "class": "icon_whole_word",
         "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "icon_whole_word",
         "parents": [{"class": "icon_button_control","attributes": ["hover"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
 
 //
@@ -1031,12 +1031,12 @@
     {
         "class": "icon_context",
         "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "icon_context",
         "parents": [{"class": "icon_button_control","attributes": ["hover"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     // Use search buffer
     {
@@ -1049,12 +1049,12 @@
     {
         "class": "icon_use_buffer",
         "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "icon_use_buffer",
         "parents": [{"class": "icon_button_control","attributes": ["hover"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
 
 //
@@ -1071,12 +1071,12 @@
     {
         "class": "icon_reverse",
         "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "icon_reverse",
         "parents": [{"class": "icon_button_control","attributes": ["hover"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     // Search wrap button
     {
@@ -1089,12 +1089,12 @@
     {
         "class": "icon_wrap",
         "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "icon_wrap",
         "parents": [{"class": "icon_button_control","attributes": ["hover"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     // Search in selection button
     {
@@ -1107,12 +1107,12 @@
     {
         "class": "icon_in_selection",
         "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "icon_in_selection",
         "parents": [{"class": "icon_button_control","attributes": ["hover"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
 
 //
@@ -1130,12 +1130,12 @@
     {
         "class": "icon_preserve_case",
         "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "icon_preserve_case",
         "parents": [{"class": "icon_button_control","attributes": ["hover"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
 
 //
@@ -1153,11 +1153,11 @@
     {
         "class": "icon_highlight",
         "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     },
     {
         "class": "icon_highlight",
         "parents": [{"class": "icon_button_control","attributes": ["hover"]}],
-        "layer0.tint": [231,76,60]
+        "layer0.tint": [145,231,61]
     }
 ]
